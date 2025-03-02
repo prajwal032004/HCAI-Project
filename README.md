@@ -22,7 +22,7 @@ Clone the repository, create a virtual environment, install dependencies, and se
 
 ```bash
 # Clone the Repository
-git clone <repository-url>
+git clone https://github.com/prajwal032004/HCAI-Project.git
 cd hcai_ecommerce
 
 # Create and Activate a Virtual Environment
